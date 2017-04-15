@@ -3,7 +3,7 @@ Contributors: Genex
 Tags: custom-menu, featured-images, fixed-layout, responsive-layout, right-sidebar, sticky-post, threaded-comments, translation-ready, two-columns
 Requires at least: 4.0
 Tested up to: 4.7.3
-Stable tag: 2.6.5
+Stable tag: 2.6.6
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
